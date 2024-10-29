@@ -57,7 +57,7 @@ Through this project, I deepened my understanding of unsupervised learning and c
 
 ---
 
-<center><img src="[https://renewind.be/web/image/622-51ef1e37/logo%20renewind-vect-v2.png](https://github.com/RayVazcari/UnsupervisedLearning-TradeAhead-Project/blob/7945b00f18d0598c0667376bafec7d96f8485162/TradeandAheadLogo.png)"></center>
+![Image Description](https://github.com/RayVazcari/UnsupervisedLearning-TradeAhead-Project/blob/main/path/to/TradeandAheadLogo.png)
 
 ---
 
