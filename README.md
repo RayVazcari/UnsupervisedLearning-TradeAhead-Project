@@ -57,7 +57,7 @@ Through this project, I deepened my understanding of unsupervised learning and c
 
 ---
 
-![Image Description](https://github.com/RayVazcari/UnsupervisedLearning-TradeAhead-Project/blob/main/path/to/TradeandAheadLogo.png)
+![Image Description](https://github.com/RayVazcari/UnsupervisedLearning-TradeAhead-Project/blob/main/TradeandAheadLogo.png)
 
 ---
 
